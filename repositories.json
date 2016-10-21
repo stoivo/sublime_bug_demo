@@ -1,17 +1,23 @@
 {
   "schema_version": "3.0.0",
   "packages": [
-    {
-      "details": "https://github.com/facelessuser/SublimeRandomCrap",
-      "releases": [
-        {
-          "sublime_text": ">=3000",
-          "branch": "master"
-        }
-      ]
-    }
+
   ],
   "dependencies": [
+    {
+      "name": "pyyaml",
+      "authors": "FichteFoll",
+      "load_order": "50",
+      "description": "Python PyYAML module",
+      "issues": "https://github.com/packagecontrol/pyyaml/issues",
+      "releases": [
+        {
+          "base": "https://github.com/stoivo/pyyaml",
+          "branch": "master",
+          "sublime_text": "*"
+        }
+      ],
+    },
     {
       "name": "python-markdown",
       "author": "facelessuser",
