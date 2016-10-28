@@ -1,7 +1,16 @@
 {
   "schema_version": "3.0.0",
   "packages": [
-
+    {
+      "name": "Debug info",
+      "details": "https://github.com/stoivo/sublime_bug_demo",
+      "releases": [
+        {
+          "sublime_text": ">=3000",
+          "branch": "debug_version"
+        }
+      ]
+    },
   ],
   "dependencies": [
     {
