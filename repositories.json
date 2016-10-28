@@ -10,23 +10,9 @@
           "branch": "debug_version"
         }
       ]
-    },
+    }
   ],
   "dependencies": [
-    {
-      "name": "pyyaml",
-      "authors": "FichteFoll",
-      "load_order": "50",
-      "description": "Python PyYAML module",
-      "issues": "https://github.com/packagecontrol/pyyaml/issues",
-      "releases": [
-        {
-          "base": "https://github.com/stoivo/pyyaml",
-          "branch": "master",
-          "sublime_text": "*"
-        }
-      ],
-    },
     {
       "name": "python-markdown",
       "author": "facelessuser",
