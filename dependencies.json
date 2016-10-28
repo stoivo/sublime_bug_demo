@@ -1,0 +1,14 @@
+{
+    "*": {
+        "*": [
+            "pyyaml",
+            "requests",
+            "python-jinja2",
+            "markupsafe",
+            "python-markdown",
+            "pygments",
+            "mdpopups",
+            "bs4"
+        ]
+    }
+}

@@ -1,0 +1,6 @@
+[
+  {
+    "caption": "Debug info (print versions)",
+    "command": "debug_version_print",
+  }
+]
