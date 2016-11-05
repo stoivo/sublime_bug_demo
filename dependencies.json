@@ -1,7 +1,6 @@
 {
     "*": {
         "*": [
-            "simon_pyyaml",
             "pyyaml",
             "requests",
             "python-jinja2",
